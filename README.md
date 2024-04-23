@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amar
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 📫 Reach me ... amar98185amar@gmail.com
+- 📫 Reach me ... amar9855554w@gmail.com
 
 <!---
 Reaper-02/Reaper-02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
